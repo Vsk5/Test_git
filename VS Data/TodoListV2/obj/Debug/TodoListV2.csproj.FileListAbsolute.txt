@@ -1,0 +1,9 @@
+D:\VS Data\TodoListV2\bin\Debug\TodoListV2.exe.config
+D:\VS Data\TodoListV2\bin\Debug\TodoListV2.exe
+D:\VS Data\TodoListV2\bin\Debug\TodoListV2.pdb
+D:\VS Data\TodoListV2\obj\Debug\TodoListV2.csproj.AssemblyReference.cache
+D:\VS Data\TodoListV2\obj\Debug\TodoListV2.Properties.Resources.resources
+D:\VS Data\TodoListV2\obj\Debug\TodoListV2.csproj.GenerateResource.cache
+D:\VS Data\TodoListV2\obj\Debug\TodoListV2.csproj.CoreCompileInputs.cache
+D:\VS Data\TodoListV2\obj\Debug\TodoListV2.exe
+D:\VS Data\TodoListV2\obj\Debug\TodoListV2.pdb
